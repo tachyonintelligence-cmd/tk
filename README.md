@@ -1,2 +1,5 @@
-# tk
-Digital visiting card — tk [cb:bdaedb80-04e0-4a1d-9fa6-7c9bad506b3b]
+# tk — Digital Visiting Card
+
+Live site: https://tachyonintelligence-cmd.github.io/tk/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
